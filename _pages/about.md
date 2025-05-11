@@ -24,25 +24,29 @@ My research focuses on the intersection of natural language generation and priva
 - Multimodal Information Retrieval,
 - LLM safety.
 
-## 🔥 News
+# 🔥 News
+
 - *2025.06*: We will bring our latest achievements to YSSNLP2025 (Dalian) and look forward to communication and sharing.
 - *2024.12*: 🎉 Two papers are accepted by AAAI 2025.
 
-## 📝 Publications 
+# 📝 Publications 
+
 - ``AAAI 2025`` [MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2408.17072). **Yujing Wang**, Hainan Zhang, Liang Pang, Binghui Guo, Hongwei Zheng, Zhiming Zheng
 
 - ``AAAI 2025`` [Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning](https://arxiv.org/pdf/2406.14217). **Yujing Wang**, Hainan Zhang, Sijia Wen, Wangjie Qiu, Binghui Guo
 
+# 📖 Educations
 
-## 📖 Educations
 - *2023.09 - 2026.01 (expected)*, Master, School of Artificial Intelligence, Beihang University. 
 - *2019.09 - 2023.06*, Undergraduate, School of Mathematical Sciences, Beihang University.
 
 
-## 💻 Internships
+# 💻 Internships
+
 - *2024.12 - 2025.03*, Meituan, Inc, China.
 
-## 🎖 Honors and Awards
+# 🎖 Honors and Awards
+
 - First prize of National College Students Mathematical Modeling Competition (Beijing Division), 2021.
 - Third prize in the National College Mathematics Competition, 2021.
 - First prize of Academic Excellence Scholarship of Beihang University, 2022.
