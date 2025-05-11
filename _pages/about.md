@@ -15,6 +15,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 
+# 👋 About Me
+
 I am Yujing Wang (王誉静), a second-year master student at School of Artificial Intelligence, Beihang University, advised by [Prof. Hainan Zhang](https://zhanghainan.github.io/). I received my Bachelor’s degree in School of Mathematical Sciences, Beihang University ([BUAA](https://ev.buaa.edu.cn/)).
 
 My research focuses on the intersection of natural language generation and privacy-preseving computation, specifically the following topic:
@@ -23,6 +25,8 @@ My research focuses on the intersection of natural language generation and priva
 - Natural Language Processing (NLP),
 - Multimodal Information Retrieval,
 - LLM safety.
+
+<font color='red'> `I am actively seeking Ph.D. opportunities starting in 2026.` </font>
 
 # 🔥 News
 
