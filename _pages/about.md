@@ -26,7 +26,7 @@ My research focuses on the intersection of natural language generation and priva
 - Multimodal Information Retrieval,
 - LLM safety.
 
-<font color='red'> `I am actively seeking Ph.D. opportunities starting in 2026.` </font>
+$\color{red} {I\~am\~actively\~seeking\~Ph.D.\~opportunities\~starting\~in\~2026.} $
 
 # 🔥 News
 
