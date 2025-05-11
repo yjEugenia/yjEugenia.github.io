@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yujing Wang (王誉静)"
-description              : "Homepage of Yujing Wang (王誉静). eugeniawyj0209@gmail.com eugenia@buaa.edu.cn"
+title                    : "Yujing Wang 王誉静"
+description              : "Homepage of Yujing Wang 王誉静. eugeniawyj0209@gmail.com eugenia@buaa.edu.cn"
 repository               : "yjEugenia/yjEugenia.github.io"
 google_scholar_stats_use_cdn : true
 
