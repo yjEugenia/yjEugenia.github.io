@@ -7,7 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 
 I am Yujing Wang (王誉静), a second-year master student at School of Artificial Intelligence, Beihang University, advised by [Prof. Hainan Zhang](https://zhanghainan.github.io/). I received my Bachelor’s degree in School of Mathematical Sciences, Beihang University ([BUAA](https://ev.buaa.edu.cn/)).
