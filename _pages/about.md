@@ -21,9 +21,9 @@ I am Yujing Wang (王誉静), a second-year master student at School of Artifici
 
 My research focuses on the intersection of natural language generation and privacy-preseving computation, specifically the following topic:
 
-- Retrieval augmented generation (RAG),
 - Natural Language Processing (NLP),
-- Multimodal Information Retrieval,
+- Multimodal Learning, 
+- Information Retrieval,
 - LLM safety.
 
 $\color{red} {I\~am\~actively\~seeking\~Ph.D.\~opportunities\~starting\~in\~2026.} $
