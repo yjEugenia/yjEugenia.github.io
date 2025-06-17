@@ -31,9 +31,12 @@ $\color{red} {I\~am\~actively\~seeking\~Ph.D.\~opportunities\~starting\~in\~2026
 # 🔥 News
 
 - *2025.06*: We will bring our latest achievements to YSSNLP2025 (Dalian) and look forward to communication and sharing.
+- *2025.04*: Released preprint [Learning to Erase Private Knowledge from Multi-Documents for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2504.09910).
 - *2024.12*: 🎉 Two papers are accepted by AAAI 2025.
 
 # 📝 Publications 
+
+- ``Preprint`` [Learning to Erase Private Knowledge from Multi-Documents for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2504.09910). **Yujing Wang**, Hainan Zhang, Liang Pang, Yongxin Tong, Binghui Guo, Hongwei Zheng, Zhiming Zheng
 
 - ``AAAI 2025`` [MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2408.17072). **Yujing Wang**, Hainan Zhang, Liang Pang, Binghui Guo, Hongwei Zheng, Zhiming Zheng
 
