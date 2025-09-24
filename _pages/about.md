@@ -17,7 +17,7 @@ redirect_from:
 
 # 👋 About Me
 
-I am Yujing Wang (王誉静), a second-year master student at School of Artificial Intelligence, Beihang University, advised by [Prof. Hainan Zhang](https://zhanghainan.github.io/). I received my Bachelor’s degree in School of Mathematical Sciences, Beihang University ([BUAA](https://ev.buaa.edu.cn/)).
+I am Yujing Wang (王誉静), a last-year master student at School of Artificial Intelligence, Beihang University, advised by [Prof. Hainan Zhang](https://zhanghainan.github.io/). I received my Bachelor’s degree in School of Mathematical Sciences, Beihang University ([BUAA](https://ev.buaa.edu.cn/)).
 
 My research focuses on the intersection of natural language generation and privacy-preseving computation, specifically the following topic:
 
