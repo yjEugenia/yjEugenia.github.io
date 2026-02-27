@@ -36,6 +36,9 @@ $\color{red} {I\~am\~actively\~seeking\~Ph.D.\~opportunities\~starting\~in\~2026
 
 # 📝 Publications 
 
+- ``Preprint`` [Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models](https://arxiv.org/abs/2602.00485). Shule Lu, **Yujing Wang**, Hainan Zhang, Xiaoshan Yang, Hongwei Zheng, Yongxin Tong, Changsheng Xu, Zhiming Zheng
+
+
 - ``Preprint`` [Learning to Erase Private Knowledge from Multi-Documents for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2504.09910). **Yujing Wang**, Hainan Zhang, Liang Pang, Yongxin Tong, Binghui Guo, Hongwei Zheng, Zhiming Zheng
 
 - ``AAAI 2025`` [MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2408.17072). **Yujing Wang**, Hainan Zhang, Liang Pang, Binghui Guo, Hongwei Zheng, Zhiming Zheng
