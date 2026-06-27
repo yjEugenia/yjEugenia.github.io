@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yujing Wang 王誉静"
-description              : "Homepage of Yujing Wang 王誉静. eugeniawyj0209@gmail.com eugenia@buaa.edu.cn"
+description              : "Homepage of Yujing Wang 王誉静. eugeniawyj0209@gmail.com eugeniawyj@outlook.com eugenia@buaa.edu.cn"
 repository               : "yjEugenia/yjEugenia.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -20,14 +20,13 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
+title: "Yujing Wang 王誉静"
+description: "Homepage of Yujing Wang (王誉静), incoming PhD student in the NLP Group at King's College London. Research interests: large language models, reasoning, reinforcement learning, mechanistic interpretability, and trustworthy AI."
+
 author:
-  name             : "Yujing Wang 王誉静"
-  avatar           : "images/photo.jpg"
-  bio              : "Beihang University"
-  location         : "Beijing, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=sXHbbEwAAAAJ"
+  bio: "Incoming PhD Student, King's College London"
+  location: "London, United Kingdom"
+  googlescholar: "https://scholar.google.com/citations?user=sXHbbEwAAAAJ"
   email            : "eugeniawyj0209@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
