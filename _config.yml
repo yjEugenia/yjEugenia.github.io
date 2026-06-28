@@ -24,6 +24,9 @@ title: "Yujing Wang 王誉静"
 description: "Homepage of Yujing Wang (王誉静), incoming PhD student in the NLP Group at King's College London. Research interests: large language models, reasoning, reinforcement learning, mechanistic interpretability, and trustworthy AI."
 
 author:
+  
+  name             : "Yujing Wang 王誉静"
+  avatar           : "images/photo.jpg"
   bio: "Incoming PhD Student, King's College London"
   location: "London, United Kingdom"
   googlescholar: "https://scholar.google.com/citations?user=sXHbbEwAAAAJ"
